@@ -1,0 +1,19 @@
+/*!
+ * Style
+ *
+ * Copyright 2013 Audacy
+ */
+
+/* Main */
+
+@import "animate/animate";
+
+@import "magic/magic";
+
+@import "timegrid/timegrid";
+
+
+// Animation css structure is composed of : 
+// delay + duration + main-style (fade / bounce / move / rotate  / 3d)
+// + sub-style (direction, emphasis, )
+// + specific css visual enhencement
