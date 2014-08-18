@@ -1,13 +1,18 @@
 {
+  "convertHtml": {
+    "relativePaths": false
+  },
   "debug": false,
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "/css",
+  "preprocessorLocations": [
+    "/css"
+  ],
   "preprocessorScriptOutput": "/css",
   "preprocessorStyleOutput": "/css",
   "projectDescription": "",
-  "projectName": "timegrid",
+  "projectName": "Timegrid",
   "publishedId": null,
   "serverHostname": null,
   "serverPort": null,
